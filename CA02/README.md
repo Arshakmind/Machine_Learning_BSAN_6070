@@ -1,4 +1,5 @@
-# CA02: Spam eMail Detection using Naive Bayes Classification Algorithm
+# CA02: Spam Email Detection using Naive Bayes Classification Algorithm
+![image](https://user-images.githubusercontent.com/59128920/153565872-2becebdb-705b-4bcb-8900-991f7f7eb2c4.png)
 
 ## Runtime
 It takes a few minutes to run the notebook. You may want to leave it running and get some coffee or tea in the meantime :) Machine Learning, you know...
