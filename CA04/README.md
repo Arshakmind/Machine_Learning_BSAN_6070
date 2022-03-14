@@ -1,5 +1,7 @@
 # CA04 – Ensemble Models
 
+Runtime: 1min
+
 ## Please feel free to skip Data Preparation: the interesting part starts at Part 2
 
 ### Where we find the optimal hyperparameters
