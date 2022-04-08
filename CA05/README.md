@@ -12,7 +12,11 @@ I used Logistic Regression model to predict the risk of CVD for patients based o
 
 ![download (2)](https://user-images.githubusercontent.com/59128920/162424731-7857721c-e569-4ce2-b6d8-72a2e7d6223e.png)
 
+<img src='https://user-images.githubusercontent.com/59128920/162426927-08569c67-ac85-4f46-a94e-41eb8d226df1.png' width = 400px>
+
+
 To understand the variables use this link
+
 https://sleepdata.org/datasets/shhs/variables
 
 ### Data
